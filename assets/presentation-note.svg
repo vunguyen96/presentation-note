@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Presentation Note</title>
+  <rect width="128" height="128" rx="20" fill="#075344"/>
+  <rect x="21" y="17" width="86" height="75" rx="8" fill="#f3f7f4"/>
+  <path d="M21 25a8 8 0 0 1 8-8h70a8 8 0 0 1 8 8v9H21z" fill="#db9f42"/>
+  <circle cx="32" cy="26" r="2" fill="#075344"/><circle cx="40" cy="26" r="2" fill="#075344"/><circle cx="48" cy="26" r="2" fill="#075344"/>
+  <circle cx="36" cy="49" r="5" fill="#087f70"/><path d="m34 49 1.5 1.5L39 47" fill="none" stroke="#fff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="47" y="46" width="43" height="5" rx="2.5" fill="#29463e"/>
+  <circle cx="36" cy="65" r="5" fill="#087f70"/><path d="m34 65 1.5 1.5L39 63" fill="none" stroke="#fff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="47" y="62" width="35" height="5" rx="2.5" fill="#719087"/>
+  <circle cx="36" cy="81" r="5" fill="#db9f42"/><rect x="47" y="78" width="39" height="5" rx="2.5" fill="#aebdb7"/>
+  <path d="M56 93v8H43v5h42v-5H72v-8" fill="#d5e2dc"/>
+  <path d="M36 112h56" stroke="#8ccf58" stroke-width="5" stroke-linecap="round"/>
+</svg>

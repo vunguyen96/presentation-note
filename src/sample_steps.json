@@ -1,0 +1,36 @@
+{
+  "meta": { "appName": "Presentation Note", "version": "0.1.0" },
+  "presentations": [
+    {
+      "id": "presentation-1",
+      "title": "Getting Started",
+      "cases": [
+        {
+          "id": "case-1",
+          "title": "Sign-in flow",
+          "steps": [
+            {
+              "id": "1",
+              "title": "Open Target App",
+              "context": "Launch the application from Start menu or taskbar.",
+              "expectations": [
+                { "id": "e1", "label": "Main window visible", "checked": false }
+              ],
+              "important": false
+            },
+            {
+              "id": "2",
+              "title": "Sign In",
+              "context": "Enter credentials and press Sign In.",
+              "expectations": [
+                { "id": "e2", "label": "User is authenticated", "checked": false },
+                { "id": "e3", "label": "Dashboard loads", "checked": false }
+              ],
+              "important": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

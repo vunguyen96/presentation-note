@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">VNA logo</title>
+  <rect width="128" height="128" rx="14" fill="#075344"/>
+  <path d="M21 24h13v8H29v8h-8zm0 25h8v8h8v8H21zm13 27v8h8v8h-8v8H21V76z" fill="#8ccf58"/>
+  <path d="M63 19 100 73H27z" fill="#edb34d"/>
+  <path d="M63 19v54H27z" fill="#f2c66e"/>
+  <path d="m63 19 4 54h33z" fill="#e59b3e"/>
+  <path d="M22 75h81v5H22z" fill="#d7a044"/>
+  <path d="m40 91 8-7 4 5-5 4 5 4-4 5-8-7zm48 0-8-7-4 5 5 4-5 4 4 5 8-7zM60 84h8l-7 18h-8z" fill="#8ccf58"/>
+  <text x="64" y="120" text-anchor="middle" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700" letter-spacing="2">VNA</text>
+  <rect x="96" y="96" width="27" height="25" rx="6" fill="#8ccf58" stroke="#075344" stroke-width="2"/>
+  <text x="109.5" y="113" text-anchor="middle" fill="#075344" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="800">ST</text>
+</svg>

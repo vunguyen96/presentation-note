@@ -1,0 +1,33 @@
+{
+  "name": "presentation-note",
+  "version": "0.1.0",
+  "description": "Presentation agenda and step notes by VNA",
+  "productName": "Presentation Note",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder --win nsis --config.win.signAndEditExecutable=false"
+  },
+  "author": "VNA",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^26.0.0",
+    "electron-builder": "^24.0.0"
+  },
+  "dependencies": {
+    "fs-extra": "^11.1.1",
+    "uuid": "^9.0.0"
+  },
+  "build": {
+    "appId": "com.vna.presentationnote",
+    "win": {
+      "target": "nsis",
+      "icon": "assets/presentation-note.ico"
+    },
+    "nsis": {
+      "installerIcon": "assets/presentation-note.ico",
+      "uninstallerIcon": "assets/presentation-note.ico"
+    }
+  }
+}
